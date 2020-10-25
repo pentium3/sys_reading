@@ -4,6 +4,10 @@ This is a weekly meetup for anyone interested in research that combine machine l
 
 Please propose the paper you'd like to share to **Issues** and add an related topic. Then we can make a consensus on the topic of each week, and add it below.
 
+---------------------------------------------
 
-+ 202008xx    [pappppppper](http://www.google.com/)
+Some public computer system reading groups:
 
+https://www.cs.jhu.edu/~huang/cs817/fall20/
+
+https://systems-seminar-uiuc.github.io/fall20/index.html
