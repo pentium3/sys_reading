@@ -12,3 +12,6 @@ https://systems-seminar-uiuc.github.io/fall20/index.html
 
 https://remziarpacidusseau.wixsite.com/mlos
 
+https://github.com/fruffy/nyu-systems-seminar
+
+
