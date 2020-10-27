@@ -1,4 +1,4 @@
-This is a weekly meetup for anyone interested in research that combine machine learning(not necessarily) and computer system.
+This is a weekly meetup for anyone interested in research that combine machine learning<sub>1</sub> and computer system.
 
 Please propose the paper you'd like to share to **Issues** and add an related topic. Then we can make a consensus on the topic of each week, and add it below.
 
@@ -15,3 +15,6 @@ https://remziarpacidusseau.wixsite.com/mlos
 https://github.com/fruffy/nyu-systems-seminar
 
 
+---------------------------------------------
+
+> 1. Not necessarily related to ML. It is called mlsys_reading for historial reasons, but now it seems only few papers are related to MLsys...
