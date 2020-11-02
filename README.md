@@ -14,5 +14,7 @@ https://remziarpacidusseau.wixsite.com/mlos
 
 https://github.com/fruffy/nyu-systems-seminar
 
+https://systems-lunch.org/
+
 
 ---------------------------------------------
