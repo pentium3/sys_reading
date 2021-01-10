@@ -20,4 +20,6 @@ http://www.sysnet.ucsd.edu/classes/cse294/sp20/
 
 https://github.com/mosharaf/eecs598
 
+http://www.cs.cornell.edu/courses/cs7490/2020fa/
+
 ---------------------------------------------
