@@ -6,6 +6,8 @@ See **Issues**
 
 Some public computer system reading groups:
 
+https://about.iangneal.io/seminar/
+
 https://www.cs.jhu.edu/~huang/cs817/fall20/
 
 https://systems-seminar-uiuc.github.io/fall20/index.html
