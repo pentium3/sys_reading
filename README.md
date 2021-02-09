@@ -24,4 +24,6 @@ https://github.com/mosharaf/eecs598
 
 http://www.cs.cornell.edu/courses/cs7490/2020fa/
 
+https://db.cs.cmu.edu/seminar2021/
+
 ---------------------------------------------
