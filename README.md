@@ -26,4 +26,8 @@ http://www.cs.cornell.edu/courses/cs7490/2020fa/
 
 https://db.cs.cmu.edu/seminar2021/
 
+https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/
+
+https://www.cs.purdue.edu/homes/pfonseca/seminar/
+
 ---------------------------------------------
