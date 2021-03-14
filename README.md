@@ -10,6 +10,8 @@ https://about.iangneal.io/seminar/
 
 https://www.cs.jhu.edu/~huang/cs817/spring21/
 
+https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html
+
 https://systems-seminar-uiuc.github.io/fall20/index.html
 
 https://remziarpacidusseau.wixsite.com/mlos
