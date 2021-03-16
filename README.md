@@ -32,4 +32,6 @@ https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/
 
 https://www.cs.purdue.edu/homes/pfonseca/seminar/
 
+https://web.eecs.umich.edu/~manosk/summer-school-2020.html
+
 ---------------------------------------------
