@@ -22,14 +22,13 @@ http://www.cs.cornell.edu/courses/cs7490/2020fa/
 
 https://www.cs.purdue.edu/homes/pfonseca/seminar/
 
-https://web.eecs.umich.edu/~manosk/summer-school-2020.html
-
-
 ## Sys Reliability
 
 https://www.cs.jhu.edu/~huang/cs817/spring21/
 
 https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html
+
+https://web.eecs.umich.edu/~manosk/summer-school-2020.html
 
 ## Sys Security
 
