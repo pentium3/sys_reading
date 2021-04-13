@@ -6,7 +6,7 @@ See **Issues**
 
 Some public computer system reading groups:
 
-General
+## General
 
 https://about.iangneal.io/seminar/
 
@@ -25,23 +25,23 @@ https://www.cs.purdue.edu/homes/pfonseca/seminar/
 https://web.eecs.umich.edu/~manosk/summer-school-2020.html
 
 
-Sys Reliability
+## Sys Reliability
 
 https://www.cs.jhu.edu/~huang/cs817/spring21/
 
 https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html
 
-Sys Security
+## Sys Security
 
 https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/
 
-Sys + ML
+## Sys + ML
 
 https://github.com/mosharaf/eecs598
 
 https://remziarpacidusseau.wixsite.com/mlos
 
-DB
+## DB
 
 https://db.cs.cmu.edu/seminar2021/
 
