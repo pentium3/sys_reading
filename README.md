@@ -34,6 +34,8 @@ https://web.eecs.umich.edu/~manosk/summer-school-2020.html
 
 https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/
 
+http://csg.csail.mit.edu/6.888Yan/schedule
+
 ## Sys + ML
 
 https://github.com/mosharaf/eecs598
