@@ -8,6 +8,8 @@ Some public computer system reading groups:
 
 ## General
 
+https://www.csail.mit.edu/events
+
 https://about.iangneal.io/seminar/
 
 https://systems-seminar-uiuc.github.io/fall20/index.html
