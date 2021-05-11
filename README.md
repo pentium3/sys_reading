@@ -24,6 +24,8 @@ http://www.cs.cornell.edu/courses/cs7490/2020fa/
 
 https://www.cs.purdue.edu/homes/pfonseca/seminar/
 
+https://www.youtube.com/c/uwcse/playlists
+
 ## Sys Reliability
 
 https://www.cs.jhu.edu/~huang/cs817/spring21/
@@ -48,6 +50,8 @@ https://remziarpacidusseau.wixsite.com/mlos
 
 https://db.cs.cmu.edu/seminar2021/
 
+## Network
 
+https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
 
 ---------------------------------------------
