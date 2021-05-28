@@ -26,6 +26,8 @@ https://www.cs.purdue.edu/homes/pfonseca/seminar/
 
 https://www.youtube.com/c/uwcse/playlists
 
+https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/edit
+
 ## Sys Reliability
 
 https://www.cs.jhu.edu/~huang/cs817/spring21/
