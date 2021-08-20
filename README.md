@@ -2,6 +2,8 @@ My system paper reading notes.
 
 See **Issues**
 
+[**Pinned Issues**](https://github.com/pentium3/sys_reading/milestone/1)
+
 ---------------------------------------------
 
 Some public computer system reading groups:
