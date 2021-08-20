@@ -42,6 +42,12 @@ https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/
 
 http://csg.csail.mit.edu/6.888Yan/schedule
 
+https://sites.cs.ucsb.edu/~trinabh/classes/w20/syllabus.html
+
+https://people.csail.mit.edu/nickolai/#pubs
+
+http://srinathsetty.net/
+
 ## Sys + ML
 
 https://github.com/mosharaf/eecs598
