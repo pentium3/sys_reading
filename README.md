@@ -58,6 +58,10 @@ https://remziarpacidusseau.wixsite.com/mlos
 
 ## DB
 
+https://cs.uwaterloo.ca/~xihe/cs848/
+
+https://sp-for-dbms.github.io/
+
 https://db.cs.cmu.edu/seminar2021/
 
 ## Network
