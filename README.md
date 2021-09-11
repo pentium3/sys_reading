@@ -50,6 +50,8 @@ https://people.csail.mit.edu/nickolai/#pubs
 
 http://srinathsetty.net/
 
+https://www.cis.upenn.edu/~sga001/classes/cis700s21/
+
 ## Sys + ML
 
 https://github.com/mosharaf/eecs598
