@@ -1,6 +1,6 @@
 My system paper reading notes.
 
-See **Issues**
+See [**Issues**](https://github.com/pentium3/sys_reading/issues)
 
 [**Pinned Issues**](https://github.com/pentium3/sys_reading/milestone/1)
 
