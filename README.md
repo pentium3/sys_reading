@@ -15,6 +15,8 @@ Some public computer system reading groups:
 
 ## General
 
+https://www.systemsapproach.org/blog-archive
+
 https://www.csail.mit.edu/events
 
 https://about.iangneal.io/seminar/
@@ -74,5 +76,7 @@ https://db.cs.cmu.edu/seminar2021/
 ## Network
 
 https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
+
+https://gitlab.com/purdue-cs592/fall-2021/public
 
 ---------------------------------------------
