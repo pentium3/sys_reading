@@ -31,39 +31,9 @@ http://www.sysnet.ucsd.edu/classes/cse294/sp20/
 
 http://www.cs.cornell.edu/courses/cs7490/2020fa/
 
-https://www.cs.purdue.edu/homes/pfonseca/seminar/
-
 https://www.youtube.com/c/uwcse/playlists
 
 https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/edit
-
-## Sys Reliability
-
-https://www.cs.jhu.edu/~huang/cs817/spring21/
-
-https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html
-
-https://web.eecs.umich.edu/~manosk/summer-school-2020.html
-
-## Sys Security
-
-https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/
-
-http://csg.csail.mit.edu/6.888Yan/schedule
-
-https://sites.cs.ucsb.edu/~trinabh/classes/w20/syllabus.html
-
-https://people.csail.mit.edu/nickolai/#pubs
-
-http://srinathsetty.net/
-
-https://www.cis.upenn.edu/~sga001/classes/cis700s21/
-
-## Sys + ML
-
-https://github.com/mosharaf/eecs598
-
-https://remziarpacidusseau.wixsite.com/mlos
 
 ## DB
 
@@ -80,5 +50,35 @@ https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
 https://gitlab.com/purdue-cs592/fall-2021/public
 
 https://pages.cs.wisc.edu/~mgliu/teaching.html
+
+## Sys + ML
+
+https://github.com/mosharaf/eecs598
+
+https://remziarpacidusseau.wixsite.com/mlos
+
+## Sys Security
+
+https://www.cs.purdue.edu/homes/pfonseca/seminar/
+
+https://www.cs.purdue.edu/homes/pfonseca/teaching/cs590/20spring/
+
+http://csg.csail.mit.edu/6.888Yan/schedule
+
+https://sites.cs.ucsb.edu/~trinabh/classes/w20/syllabus.html
+
+https://people.csail.mit.edu/nickolai/#pubs
+
+http://srinathsetty.net/
+
+https://www.cis.upenn.edu/~sga001/classes/cis700s21/
+
+## Sys Reliability
+
+https://www.cs.jhu.edu/~huang/cs817/spring21/
+
+https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html
+
+https://web.eecs.umich.edu/~manosk/summer-school-2020.html
 
 ---------------------------------------------
