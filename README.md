@@ -79,4 +79,6 @@ https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
 
 https://gitlab.com/purdue-cs592/fall-2021/public
 
+https://pages.cs.wisc.edu/~mgliu/teaching.html
+
 ---------------------------------------------
