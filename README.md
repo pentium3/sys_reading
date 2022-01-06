@@ -17,6 +17,8 @@ Some public computer system reading groups:
 
 https://www.bu.edu/rhcollab/events/bu-systems-bu%e2%99%bas-seminar-fall-2021/
 
+https://pages.cs.wisc.edu/~shivaram/cs744-fa21/
+
 https://www.systemsapproach.org/blog-archive
 
 https://www.csail.mit.edu/events
@@ -39,15 +41,17 @@ https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/
 
 ## DB
 
-https://cs.uwaterloo.ca/~xihe/cs848/
-
-https://sp-for-dbms.github.io/
+http://pages.cs.wisc.edu/~yxy/cs764-f21/index.html
 
 https://db.cs.cmu.edu/seminar2021/
+
+https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
 ## Network
 
 https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
+
+http://pages.cs.wisc.edu/~akella/CS740/S20/papers.html
 
 https://gitlab.com/purdue-cs592/fall-2021/public
 
@@ -60,6 +64,8 @@ https://github.com/mosharaf/eecs598
 https://remziarpacidusseau.wixsite.com/mlos
 
 ## Sys Security
+
+https://courses.cs.duke.edu/fall21/compsci590.1/schedule.html
 
 https://www.cs.purdue.edu/homes/pfonseca/seminar/
 
