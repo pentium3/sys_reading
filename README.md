@@ -15,6 +15,8 @@ Some public computer system reading groups:
 
 ## General
 
+https://www.bu.edu/rhcollab/events/bu-systems-bu%e2%99%bas-seminar-fall-2021/
+
 https://www.systemsapproach.org/blog-archive
 
 https://www.csail.mit.edu/events
