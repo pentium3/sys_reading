@@ -47,7 +47,9 @@ https://db.cs.cmu.edu/seminar2021/
 
 https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
-## Network
+## Network / Distributed Sys
+
+https://dsl.cis.upenn.edu/seminar/
 
 https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
 
