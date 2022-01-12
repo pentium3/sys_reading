@@ -59,6 +59,8 @@ https://pages.cs.wisc.edu/~mgliu/teaching.html
 
 ## Sys + ML
 
+https://github.com/ucbrise/cs294-ai-sys-sp22
+
 https://github.com/mosharaf/eecs598
 
 https://remziarpacidusseau.wixsite.com/mlos
