@@ -59,6 +59,8 @@ https://gitlab.com/purdue-cs592/fall-2021/public
 
 https://pages.cs.wisc.edu/~mgliu/teaching.html
 
+https://people.cs.rutgers.edu/~sn624/552-F20/syllabus.html
+
 ## Sys + ML
 
 https://github.com/ucbrise/cs294-ai-sys-sp22
