@@ -69,6 +69,8 @@ https://github.com/mosharaf/eecs598
 
 https://remziarpacidusseau.wixsite.com/mlos
 
+http://alchem.usc.edu/ceng-seminar/
+
 ## Sys Security
 
 https://courses.cs.duke.edu/fall21/compsci590.1/schedule.html
