@@ -15,6 +15,8 @@ Some public computer system reading groups:
 
 ## General
 
+https://courses.cs.washington.edu/courses/cse590x/22wi/resources/
+
 https://www.bu.edu/rhcollab/events/bu-systems-bu%e2%99%bas-seminar-fall-2021/
 
 https://pages.cs.wisc.edu/~shivaram/cs744-fa21/
