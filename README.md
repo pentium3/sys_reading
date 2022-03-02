@@ -53,6 +53,8 @@ https://www.cs.purdue.edu/homes/csjgwang/CloudNativeDB/
 
 https://dsl.cis.upenn.edu/seminar/
 
+https://www.youtube.com/channel/UCDjWhwewESyX335Rp6B1PEw/videos
+
 https://www.youtube.com/channel/UCAtFAG5JdQrHac6ArIWJ-hw/videos
 
 http://pages.cs.wisc.edu/~akella/CS740/S20/papers.html
