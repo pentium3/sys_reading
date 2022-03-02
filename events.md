@@ -20,6 +20,9 @@ https://cs.uwaterloo.ca/events
 
 ### Boston U
 
+no online access :(
+
+
 
 ### U Toronto
 
