@@ -14,12 +14,16 @@ https://cse.umn.edu/cs/past-events
 
 ### U Waterloo
 
+need password :(
+
 https://cs.uwaterloo.ca/events
 
 ### Boston U
 
 
 ### U Toronto
+
+not colloquium :(
 
 https://web.cs.toronto.edu/events
 
@@ -30,10 +34,14 @@ https://cs.illinois.edu/about/calendar/all
 
 ### UCI
 
+no online access :(
+
 https://www.cs.uci.edu/events/seminar-series/
 
 
 ### U Virginia
+
+no online access :(
 
 https://engineering.virginia.edu/departments/computer-science/about-computer-science/cs-calendar-events
 
@@ -45,10 +53,12 @@ need login :(
 
 ### NUS
 
+no online access :(
+
 https://events.comp.nus.edu.sg/#
 
 
-### HKUST
+### ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+)   HKUST
 
 https://cse.hkust.edu.hk/pg/seminars/
 
@@ -59,7 +69,7 @@ https://www.cs.cmu.edu/calendar/
 
 ### UCSB
 
-not online :(
+no online access :(
 
 https://www.cs.ucsb.edu/happenings/events-calendar
 
@@ -85,7 +95,7 @@ https://web3.cs.jhu.edu/seminars/2022/spring
 
 ### NYU
 
-not online :(
+no online access :(
 
 https://cs.nyu.edu/dynamic/news/colloquium/
 
