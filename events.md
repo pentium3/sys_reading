@@ -1,4 +1,4 @@
-## CS Dept Events/Colloquium
+## CS Dept Events
 
 ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) public online access colloquium
 
