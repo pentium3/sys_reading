@@ -40,9 +40,6 @@ https://engineering.virginia.edu/departments/computer-science/about-computer-sci
 
 need login :(
 
-https://www.sfu.ca/cqlogin.html?resource=%2Fcomputing%2Fcs-future-intranet-public%2FInsideLandingPage%2Ffaculty%2Ffaculty-candidate-seminars-2022.html&$$login$$=%24%24login%24%24&j_reason=unknown&j_reason_code=unknown
-
-
 
 ### NUS
 
@@ -62,3 +59,14 @@ https://www.cs.cmu.edu/calendar/
 
 https://www.cs.ucsb.edu/happenings/events-calendar
 
+### UMASS
+
+https://www.cics.umass.edu/events
+
+### UCSD
+
+not public :(
+
+### Purdue
+
+https://www.cs.purdue.edu/calendar/colloquium.html
