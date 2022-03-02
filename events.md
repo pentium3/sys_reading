@@ -175,4 +175,33 @@ no online access :(
 
 https://www.cs.duke.edu/events
 
+---------------------
 
+sbu
+osu
+ucla
+ucb
+ucsc
+asu
+rochester
+mit
+harvard
+neu
+unc
+ucr
+psu
+nwu
+wustl
+vt
+utah
+tamu
+ufl
+ucd
+rutgers
+ncsu
+rice
+usc
+brown
+cuhk
+eth
+epfl
