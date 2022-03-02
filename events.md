@@ -58,3 +58,7 @@ https://cse.hkust.edu.hk/pg/seminars/
 
 https://www.cs.cmu.edu/calendar/
 
+### UCSB
+
+https://www.cs.ucsb.edu/happenings/events-calendar
+
