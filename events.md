@@ -84,7 +84,9 @@ https://www.cics.umass.edu/events
 
 ### UCSD
 
-not public :(
+not in public calendar :(
+
+https://cse.ucsd.edu/about/cse-events-calendar
 
 ###  ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+)  Purdue
 
@@ -125,4 +127,33 @@ not Colloquium :(
 https://www.cs.cornell.edu/events/calendar
 
 
+###  ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+)  U Chicago
+
+https://cs.uchicago.edu/news-events/events/calendar/
+
+### U Washington
+
+no online access :(
+
+https://www.cs.washington.edu/events/colloquia
+
+
+### Princeton
+
+no online access :(
+
+https://www.cs.princeton.edu/general/newsevents/events
+
+
+### Yale
+
+
+no online access :(
+
+https://cpsc.yale.edu/calendar
+
+
+### ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+)  U Texas
+
+https://apps.cs.utexas.edu/calendar/
 
