@@ -157,3 +157,22 @@ https://cpsc.yale.edu/calendar
 
 https://apps.cs.utexas.edu/calendar/
 
+### GaTech
+
+no online access :(
+
+https://www.cc.gatech.edu/event/category/seminar-lecture-colloquium
+
+
+### ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) U Maryland
+
+https://www.cs.umd.edu/events
+
+### Duke
+
+no online access :(
+
+
+https://www.cs.duke.edu/events
+
+
