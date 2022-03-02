@@ -172,8 +172,23 @@ https://www.cs.umd.edu/events
 
 no online access :(
 
-
 https://www.cs.duke.edu/events
+
+###  ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) Rice
+
+https://events.rice.edu/#!view/all/search/computer%20science
+
+
+###   ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) Rutgers
+
+https://www.cs.rutgers.edu/news-events/cs-events/range.listevents/-
+
+### Penn State U
+
+no online access :(
+
+https://www.eecs.psu.edu/events/
+
 
 ---------------------
 
@@ -189,7 +204,6 @@ harvard
 neu
 unc
 ucr
-psu
 nwu
 wustl
 vt
@@ -197,9 +211,7 @@ utah
 tamu
 ufl
 ucd
-rutgers
 ncsu
-rice
 usc
 brown
 cuhk
