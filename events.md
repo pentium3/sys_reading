@@ -108,7 +108,7 @@ https://cs.nyu.edu/dynamic/news/colloquium/
 
 https://cse.engin.umich.edu/events/
 
-### U Wisconsin
+###  ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) U Wisconsin
 
 https://www.cs.wisc.edu/cs-events/
 
