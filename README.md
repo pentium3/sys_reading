@@ -13,6 +13,11 @@ See [**Issues**](https://github.com/pentium3/sys_reading/issues)
 
 Some public computer system reading groups:
 
+## LLM sys
+
+https://github.com/AmberLJC/LLMSys-PaperList
+
+
 ## General
 
 https://courses.cs.washington.edu/courses/cse590x/22wi/resources/
